@@ -1,3 +1,5 @@
 Emoji
 Typing option
 Colors
+
+Dark mode
