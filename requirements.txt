@@ -3,3 +3,5 @@ Typing option
 Colors
 
 Dark mode
+
+Video calls
